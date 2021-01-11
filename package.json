@@ -1,0 +1,15 @@
+{
+  "name": "research_project",
+  "version": "1.0.0",
+  "description": "Application for final year project.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/egan16/research-project.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
